@@ -1,0 +1,56 @@
+*{
+ margin:0;
+ padding: 0;
+ box-sizing: border-box;
+}
+header{
+    height: 388px;
+    background-color: blue;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 10%;
+    
+}
+
+nav ,li   {
+    display: inline-block;
+}
+ 
+
+.logo{
+    width: 115px;
+    height: 65px;
+}
+a{
+    text-decoration: dashed;
+    color: #ffffff;
+}
+.img-menu{
+    width: 1195px;
+    height: 600px;
+    margin: 130px;
+   
+
+}
+h2{
+    text-align: center;
+}
+.img-class{
+    width: 219px;
+    height: 219px;
+    margin: 40px;
+}
+
+section{
+    margin-top: -250px;
+   
+}
+div{
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+    
+
+}
+
